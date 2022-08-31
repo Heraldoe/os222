@@ -2,5 +2,5 @@
 A repository for the course Operating Systems 2022-2 (Odd Semester 22/23)
 
 [GitHub Page](https://Heraldoe.github.io/os222/) --- 
-[myLOG](mylog.txt) --- 
+[myLOG](TXT/mylog.txt) --- 
 [GitHub](https://github.com/Heraldoe/os222/)
