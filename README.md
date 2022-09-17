@@ -7,9 +7,8 @@ A repository for the course Operating Systems 2022-2 (Odd Semester 22/23)
 [links](https://heraldoe.github.io/os222/LINKS/)
 
 ## uwaw
-
 <br>
 <hr>
- --- Halomoan Geraldo ---.
+ --- Halomoan Geraldo ---
 <hr>
 <br>
