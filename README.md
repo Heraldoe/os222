@@ -10,6 +10,6 @@ A repository for the course Operating Systems 2022-2 (Odd Semester 22/23)
 
 <br>
 <hr>
-{{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
