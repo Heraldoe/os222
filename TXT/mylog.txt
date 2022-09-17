@@ -9,3 +9,6 @@ ZCZC W00 20 L09 Weekly Assignments
 ZCZC W01 200 L02 ZOOM meetings related
 ZCZC W01 100 L11 Weekly Assignments
 ZCZC W01 50 L06 Reading Assignments
+ZCZC W02 60 L06 Reading Assignments
+ZCZC W02 120 L12 Weekly Assignments
+ZCZC W02 15 L05 Quiz related
