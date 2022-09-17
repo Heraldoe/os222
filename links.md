@@ -20,6 +20,6 @@ A place to learn Regex
 
 <br>
 <hr>
- --- Halomoan Geraldo ---.
+ --- Halomoan Geraldo ---
 <hr>
 <br>
