@@ -12,6 +12,6 @@ A few commands to familiarize someone to linux
 
 <br>
 <hr>
-{{ site.author }} --- Version: {{ site.version }}.
+ --- Halomoan Geraldo ---.
 <hr>
 <br>
