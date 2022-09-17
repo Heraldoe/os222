@@ -11,10 +11,12 @@ Introduces Git to someone who is new to it
 A few commands to familiarize someone to linux
 
 ## Week 2
-1. [What is Scripting](https://coralogix.com/blog/what-is-scripting/)
+1. [What is Scripting](https://coralogix.com/blog/what-is-scripting/)<br>
 Explains what is scripting
-2. [C](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+2. [C](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
 A long video about C
+3. [Regex](https://regexone.com/)<br>
+A place to learn Regex
 
 <br>
 <hr>
