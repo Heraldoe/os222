@@ -1,6 +1,15 @@
 ---
 permalink: /LINKS/
 ---
+# os222
+<span style="color:red; font-weight:bold; font-size:larger;">By Halomoan Geraldo</span>
+<br><br>
+[GitHub Page](https://Heraldoe.github.io/os222/) --- 
+[myLOG](TXT/mylog.txt) --- 
+[GitHub](https://github.com/Heraldoe/os222/) ---
+[links](https://heraldoe.github.io/os222/LINKS/)
+<br>
+<hr>
 
 # LINKS
 
@@ -20,6 +29,6 @@ A place to learn Regex
 
 <br>
 <hr>
- --- Halomoan Geraldo ---
+&copy; {{ site.copyright }} --- {{ site.author }}.
 <hr>
 <br>
