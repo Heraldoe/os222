@@ -12,7 +12,6 @@ permalink: LINKS/
 [GITHUB]({{ site.githublink }})
 
 <br>
-<hr>
 
 
 [GitHub Page](https://Heraldoe.github.io/os222/) --- 
