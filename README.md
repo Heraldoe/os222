@@ -1,7 +1,5 @@
----
-# os222
----
 
+# os222
 [GitHub Page](https://Heraldoe.github.io/os222/) --- 
 [myLOG](TXT/mylog.txt) --- 
 [GitHub](https://github.com/Heraldoe/os222/) ---
