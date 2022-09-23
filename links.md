@@ -27,6 +27,14 @@ A long video about C
 3. [Regex](https://regexone.com/)<br>
 A place to learn Regex
 
+## Week 3
+1. [File systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+Explains about file systems
+2. [Free space management](https://www.youtube.com/watch?v=CCNGuS-yh_c)<br>
+A video about the management of free space in an operating system
+3. [Virtual file systems](https://www.youtube.com/watch?v=J4qWNNISdJk)<br>
+Video explaining about virtual file systems
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
