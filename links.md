@@ -35,6 +35,14 @@ A video about the management of free space in an operating system
 3. [Virtual file systems](https://www.youtube.com/watch?v=J4qWNNISdJk)<br>
 Video explaining about virtual file systems
 
+## Week 4
+1. [Main memory](https://www.youtube.com/watch?v=Jy_teuaj7Ic)<br>
+A video about main memory
+2. [Intro to main memory](https://www.studytonight.com/operating-system/memory-management)<br>
+Introooo
+3. [Swapping](https://www.javatpoint.com/swapping-in-operating-system#:~:text=Swapping%20is%20a%20memory%20management,to%20improve%20main%20memory%20utilization.)<br>
+Swap
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
