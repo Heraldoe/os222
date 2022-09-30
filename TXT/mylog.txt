@@ -28,3 +28,5 @@ ZCZC W04 50 L09 Week 4 assignment
 ZCZC W04 10 L61 Backup VM
 ZCZC W04 10 L05 Doing quiz
 ZCZC W04 10 L43 myrank.txt update
+ZCZC W04 10 L40 a few changes in TXT/
+ZCZC W04 15 L06 Reading assignment
