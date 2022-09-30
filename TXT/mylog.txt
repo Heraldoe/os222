@@ -20,3 +20,11 @@ ZCZC W03 30 L06 Reading assignments
 ZCZC W03 50 L05 Studying and doing OS quiz
 ZCZC W03 10 L41 updating mylog.txt
 ZCZC W03 30 L32 Watching some vidoes about OS
+ZCZC W04 100 L02 ZOOM meetings
+ZCZC W04 20 L41 Update mylog.txt
+ZCZC W04 20 L32 Watching videos about OS
+ZCZC W04 40 L06 Reading assignments
+ZCZC W04 50 L09 Week 4 assignment
+ZCZC W04 10 L61 Backup VM
+ZCZC W04 10 L05 Doing quiz
+ZCZC W04 10 L43 myrank.txt update
