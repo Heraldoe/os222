@@ -30,3 +30,10 @@ ZCZC W04 10 L05 Doing quiz
 ZCZC W04 10 L43 myrank.txt update
 ZCZC W04 10 L40 a few changes in TXT/
 ZCZC W04 15 L06 Reading assignment
+ZCZC W05 100 L02 ZOOM meetings
+ZCZC W05 15 L43 updated myrank.txt
+ZCZC W05 20 L41 updated mylog.txt
+ZCZC W05 40 L32 Watched some videos about this week's topic
+ZCZC W05 5 L05 Doing quiz
+ZCZC W05 75 L09 Doing week 5 assignment
+ZCZC W05 15 L61 Backup VM
