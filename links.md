@@ -43,6 +43,14 @@ Introooo
 3. [Swapping](https://www.javatpoint.com/swapping-in-operating-system#:~:text=Swapping%20is%20a%20memory%20management,to%20improve%20main%20memory%20utilization.)<br>
 Swap
 
+## Week 5
+1. [Virtual Memory](https://www.tutorialspoint.com/what-is-virtual-memory)<br>
+Intro to virtual memory
+2. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+Some stuff about paging
+3. [Video](https://www.youtube.com/watch?v=5lFnKYCZT5o&t=2s)<br>
+A video
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
