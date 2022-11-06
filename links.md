@@ -51,6 +51,13 @@ Some stuff about paging
 3. [Video](https://www.youtube.com/watch?v=5lFnKYCZT5o&t=2s)<br>
 A video
 
+## Week 6
+1. [Threads] (https://www.javatpoint.com/threads-in-operating-system)<br>
+About threads
+2. [Process Management] (https://www.javatpoint.com/process-management-in-os)<br>
+About process management
+3. [More about threads] (https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.

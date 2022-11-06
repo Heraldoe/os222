@@ -37,3 +37,9 @@ ZCZC W05 40 L32 Watched some videos about this week's topic
 ZCZC W05 5 L05 Doing quiz
 ZCZC W05 75 L09 Doing week 5 assignment
 ZCZC W05 15 L61 Backup VM
+ZCZC W06 100 L02 ZOOM meetings
+ZCZC W06 110 L06 Reading Assignment
+ZCZC W06 15 L61 Backup VM before doing assignment
+ZCZC W06 70 L09 Week 6 Assignment
+ZCZC W06 5 L41 update mylog.txt
+ZCZC W06 10 L03 GitHub related
