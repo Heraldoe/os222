@@ -43,3 +43,11 @@ ZCZC W06 15 L61 Backup VM before doing assignment
 ZCZC W06 70 L09 Week 6 Assignment
 ZCZC W06 5 L41 update mylog.txt
 ZCZC W06 10 L03 GitHub related
+ZCZC W07 120 L09 Week 7 Assignment
+ZCZC W07 100 L02 ZOOM meeting related
+ZCZC W07 20 L03 GitHub related
+ZCZC W07 10 L62 Backup
+ZCZC W07 90 L06 Reading Assignments
+ZCZC W07 15 L07 Demo Related
+ZCZC W07 10 L40 TXT/ Related
+ZCZC W07 15 L32 Watching OS related topics

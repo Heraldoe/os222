@@ -52,11 +52,19 @@ Some stuff about paging
 A video
 
 ## Week 6
-1. [Threads] (https://www.javatpoint.com/threads-in-operating-system)<br>
+1. [Threads](https://www.javatpoint.com/threads-in-operating-system)<br>
 About threads
-2. [Process Management] (https://www.javatpoint.com/process-management-in-os)<br>
+2. [Process Management](https://www.javatpoint.com/process-management-in-os)<br>
 About process management
-3. [More about threads] (https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+3. [More about threads](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+
+## Week 7
+1. [Semaphores](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+About Semaphores
+2. [Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Deadlocks
+3. [More about Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE)<br>
+A vidoe about Semaphores
 
 <br>
 <hr>
