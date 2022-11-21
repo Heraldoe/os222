@@ -64,7 +64,15 @@ About Semaphores
 2. [Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 Deadlocks
 3. [More about Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE)<br>
-A vidoe about Semaphores
+A video about Semaphores
+
+## Week 8
+1. [CPU scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+About CPU scheduling
+2. [Thread scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
+About thread scheduling
+3. [Linux scheduling](https://www.youtube.com/watch?v=Jl_0W4o0xao)<br>
+Video about linux scheduling
 
 <br>
 <hr>
