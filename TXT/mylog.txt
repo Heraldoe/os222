@@ -51,3 +51,11 @@ ZCZC W07 90 L06 Reading Assignments
 ZCZC W07 15 L07 Demo Related
 ZCZC W07 10 L40 TXT/ Related
 ZCZC W07 15 L32 Watching OS related topics
+ZCZC W08 40 L00 Studying in general
+ZCZC W08 100 L02 ZOOM meeting
+ZCZC W08 30 L03 GitHub related
+ZCZC W08 10 L05 Quiz
+ZCZC W08 180 L09 Weekly assignment
+ZCZC W05 20 Backup VM
+ZCZC W08 60 Reading assignment
+ZCZC W80 60 Watching videos about OS
